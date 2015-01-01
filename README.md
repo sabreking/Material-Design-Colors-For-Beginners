@@ -4,10 +4,12 @@ Initial Code taken from Materialize https://github.com/Dogfalo/materialize
 
 A simple CSS for easy use of Material Design colors **no matter what framework you are using**, Bootstrap, Foundation etc.
 #New feature v1.0.0
-Text with Alpha Values as suggested by the Google Material Design Specifications
+**Text with Alpha Values as suggested by the Google Material Design Specifications**
 
 ##White text
+White text to be used on brighter shades of colors
 >blue has just been used as the background for contrast, You can use the text on any background
+
 ```html
         <div class="blue whitetext-main">
         <p style="font-size:50px">whitetext-main</p>
@@ -26,6 +28,9 @@ Text with Alpha Values as suggested by the Google Material Design Specifications
         </div>
 ```
 ##Black text
+
+to be used on lighter shades
+
 ```html
         <div class="blue blacktext-main">
             <p style="font-size:50px">using whitetext-main</p>
