@@ -1,4 +1,4 @@
-Material-Design-Colors for Beginners
+Material-Design-Colors-For-Beginners
 ====================================
 Initial Code taken from Materialize https://github.com/Dogfalo/materialize
 
